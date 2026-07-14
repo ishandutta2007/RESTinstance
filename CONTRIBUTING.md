@@ -1,5 +1,8 @@
 # Contributing
 
+As of 2026-, we are not accepting contributions from outside the team.
+If you want to create a pull request, please contact a maintainer first.
+
 You can use your favorite Python version manager (asdf, pyenv, ...) as long
 as it follows `.python-version`.
 
@@ -11,6 +14,6 @@ Install pre-commit hooks in your git working copy:
 
 Use [Conventional Commits](https://www.conventionalcommits.org/).
 
-Create documentation as part of you pull request:
+Update documentation:
 
     pdm docs

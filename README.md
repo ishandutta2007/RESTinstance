@@ -123,10 +123,7 @@ DELETE the existing successfully, save the history of all requests
 robot --outputdir results atest/
 ```
 
-## Contributing
-
-Kindly create an [issue](https://github.com/asyrjasalo/RESTinstance/issues)
-and then create a pull request. See `CONTRIBUTING.md` for that.
+## Development
 
 Install [PDM](https://pdm-project.org/latest/):
 
